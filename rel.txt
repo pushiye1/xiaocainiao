@@ -1,1 +1,6 @@
-zxcd
+#include<stdio.h>
+int main()
+{
+    printf("你的答案：%s",d);
+    return 0;
+}
