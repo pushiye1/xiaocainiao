@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    printf("你的答案：%s",d);
+    int t;
+    scanf(%d,&t);
+    printf("你的答案：%d",t);
     return 0;
 }
